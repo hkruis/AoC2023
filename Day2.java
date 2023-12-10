@@ -43,10 +43,6 @@ public class Day2 {
             int green2 = 0;
             int blue2 =0;
 
-            int midBlue = 0;
-            int midRed = 0;
-            int midGreen = 0;
-
             String replacement = "Game " + gameNum + ":";
             game = game.replace(replacement, "");
 
